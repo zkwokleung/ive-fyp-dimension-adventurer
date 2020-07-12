@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b66b5200ccb28641b4b1255ba0c8599, type: 3}
+  m_Name: Multiplier
+  m_EditorClassIdentifier: 
+  name: Multiplier
+  isSpecialItem: 1
+  description: Apply status times2
+  effects:
+  - {fileID: 11400000, guid: 0bc4148ad31ee9249b22f4817ed985bf, type: 2}
+  - {fileID: 11400000, guid: 7542272d211877c4e94ac0e9cc2b0911, type: 2}

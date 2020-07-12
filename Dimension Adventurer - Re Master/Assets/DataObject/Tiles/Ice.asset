@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1be797f31edbb044a6cf45126dcc36f, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  matFloor: {fileID: 2100000, guid: 860320931831efd4dbb48536b5c334ea, type: 2}
+  matLeftWall: {fileID: 2100000, guid: 2ecb65f2699eb5f4497532b3df4d57d9, type: 2}
+  matCeiling: {fileID: 2100000, guid: 7df27978bbe894640b2c378a6fcb1e57, type: 2}
+  matRightWall: {fileID: 2100000, guid: 2ecb65f2699eb5f4497532b3df4d57d9, type: 2}

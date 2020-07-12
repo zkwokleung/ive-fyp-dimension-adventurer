@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a10ca84b55eb3c4985656a319016ea5, type: 3}
+  m_Name: EnvironmentData
+  m_EditorClassIdentifier: 
+  MaxMovingSpeed: 35
+  MinMovingSpeed: 7
+  RotateSpeed: 10
+  RemoveDistance: 300
+  TileLength: 36
+  TileWidth: 36
+  MaxTile: 20
+  obstacleSpawnRate: 10
+  obstacleOffset: -17.5
+  obstacleInitCooldown: 1
+  obstacleNormalCooldown: 3
+  itemOffsetToGround: 2
+  itemSpawnPathChangeInterval: 5
+  spItemSpawnRate: 0
